@@ -1,0 +1,9 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/crapromer/exams.git
+[submodule "learning-xcc"]
+	path = learning-xcc
+	url = https://github.com/crapromer/learning-cxx.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/crapromer/learning-cxx.git
